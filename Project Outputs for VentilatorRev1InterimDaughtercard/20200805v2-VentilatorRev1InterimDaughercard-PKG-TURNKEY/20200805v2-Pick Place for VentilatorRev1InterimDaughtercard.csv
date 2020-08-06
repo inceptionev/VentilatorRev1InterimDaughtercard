@@ -1,0 +1,63 @@
+Altium Designer Pick and Place Locations
+C:\Projects\VentilatorRev1InterimDaughtercard\Project Outputs for VentilatorRev1InterimDaughtercard\ASSY PKG\Pick Place for VentilatorRev1InterimDaughtercard.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       05/08/20
+Time:       16:48
+Revision:   590c71eb675e5dfb7a4265bcd19e9c7985852799
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"R17","RES 0603","TopLayer","RES0603","110.233","728.348","270","Res 0603"
+"R16","RES 0603","TopLayer","RES0603","236.217","728.348","270","Res 0603"
+"C15","CAP 0603","TopLayer","CAP0603","2098.424","602.359","360","Cap 0603"
+"U2","BMP280","TopLayer","BMP280","2055.118","704.724","0","Pressure Sensor 4.35PSI ~ 15.95PSI (30kPa ~ 110kPa) Absolute  16b 8-SMD"
+"U8","INA333","TopLayer","8-VSSOP","783.465","1653.543","360","Instrumentation Amp, GBW=1MHz"
+"R15","RES 0603","TopLayer","RES0603","614.175","2086.617","180","Res 0603"
+"R14","RES 0603","TopLayer","RES0603","614.172","2157.477","360","Res 0603"
+"R13","RES 0603","TopLayer","RES0603","598.428","1720.471","90","Res 0603"
+"R12","RES 0603","TopLayer","RES0603","984.255","1673.227","90","Res 0603"
+"R11","RES 0603","TopLayer","RES0603","838.581","1771.650","0","Res 0603"
+"R10","RES 0603","TopLayer","RES0603","527.556","1720.474","270","Res 0603"
+"R9","RES 0603","TopLayer","RES0603","263.778","1744.091","0","Res 0603"
+"J2","B2B-XH-AM(LF)(SN)","TopLayer","JST_B2B-XH-AM","360.236","2118.110","180","CONN HEADER VERT 2POS 2.5MM"
+"C14","CAP 0603","TopLayer","CAP0603","1055.115","1673.230","270","Cap 0603"
+"C13","CAP 0603","TopLayer","CAP0603","759.841","1535.430","360","Cap 0603"
+"P2","Header 4","TopLayer","HDR1X4","2633.858","1514.567","90","Header, 4-Pin"
+"C12","CAP 0603","TopLayer","CAP0603","2114.175","1267.720","180","Cap 0603"
+"C11","CAP 0603","TopLayer","CAP0603","1877.950","1070.868","270","Cap 0603"
+"J1","B6B-XH-AM(LF)(SN)","TopLayer","JST_B6B-XH-AM","1734.252","2129.520","180","CONN HEADER VERT 6POS 2.5MM"
+"Y1","32.7680KHZ","TopLayer","2-ABS05","1877.953","1188.976","90","CRYSTAL 32.7680KHZ 12.5PF SMD 1x1.6mm"
+"U7","INA333","TopLayer","8-VSSOP","1523.622","1653.543","360","Instrumentation Amp, GBW=1MHz"
+"U6","SN74LVC2T45DCTR","TopLayer","8-MSOP","2244.095","2086.614","180","Bidirectional Level Shifter 2-ch"
+"U5","256Kbit","TopLayer","8-MSOP","1984.252","1598.425","360","IC EEPROM 256KBIT I2C 400KHZ 8MSOP"
+"U4","4525DO-DS5AI001DP","TopLayer","4525do","1850.394","275.591","180","Pressure Sensor 1PSI (6.89kPa) Differential Male - 0.14" (3.56mm) Tube, Dual 14 b 8-DIP Module"
+"U3","MPXV5010DP","TopLayer","8-SOP-MPXV","964.567","275.591","180","Pressure Sensor 1.45PSI (10kPa) Differential Male - 0.13" (3.3mm) Tube, Dual 0.2 V ~ 4.7 V 8-BSOP (0.475", 12.06mm Width) Dual Ports, Same Side"
+"U1","PCF85363ATT/AJ","TopLayer","8-MSOP-3.0MM","2055.118","1149.606","360","Real Time Clock (RTC) IC Clock/Calendar 64B I²C, 2-Wire Serial 8-TSSOP, 8-MSOP (0.118", 3.00mm Width)"
+"R8","RES 0603","TopLayer","RES0603","1145.668","2086.611","0","Res 0603"
+"R7","RES 0603","TopLayer","RES0603","1145.671","2157.484","180","Res 0603"
+"R6","RES 0603","TopLayer","RES0603","2173.227","1968.501","0","Res 0603"
+"R5","RES 0603","TopLayer","RES0603","1704.728","1673.227","90","Res 0603"
+"R4","RES 0603","TopLayer","RES0603","1531.495","1771.650","360","Res 0603"
+"R3","RES 0603","TopLayer","RES0603","1350.390","1653.545","270","Res 0603"
+"R2","RES 0603","TopLayer","RES0603","641.731","811.020","360","Res 0603"
+"R1","RES 0603","TopLayer","RES0603","641.731","740.154","360","Res 0603"
+"P9","0.100" Sockets","TopLayer","ESQ-108-14-T-S","2327.953","450.000","90","Tall Female Header 0.100" Pitch 8x1 Sockets"
+"P8","0.100" Sockets","TopLayer","ESQ-106-14-T-S","427.953","369.685","270","Tall Female Header 0.100" Pitch 6x1 Sockets"
+"P6","0.100" Sockets","TopLayer","ESQ-108-14-T-S","427.953","1169.685","270","Tall Female Header 0.100" Pitch 8x1 Sockets"
+"P5","0.100" Sockets","TopLayer","ESQ-110-14-T-S","2327.953","1409.842","90","Tall Female Header 0.100" Pitch 8x1 Sockets"
+"P1","KK 3.0","TopLayer","22232031","866.142","2082.677","0","Conn, KK 0.100" Male Header"
+"C10","CAP 0603","TopLayer","CAP0603","2244.093","2204.721","360","Cap 0603"
+"C9","CAP 0603","TopLayer","CAP0603","1775.587","1673.230","270","Cap 0603"
+"C8","CAP 0603","TopLayer","CAP0603","1519.687","1535.436","180","Cap 0603"
+"C7","CAP 0603","TopLayer","CAP0603","2161.414","1657.482","270","Cap 0603"
+"C6","CAP 0603","TopLayer","CAP0603","1417.320","255.907","270","Cap 0603"
+"C5","CAP 0603","TopLayer","CAP0603","1496.060","255.907","270","Cap 0603"
+"C4","CAP 0603","TopLayer","CAP0603","2196.847","177.167","270","Cap 0603"
+"C3","CAP 0603","TopLayer","CAP0603","641.731","885.824","360","Cap 0603"
+"C2","CAP 0603","TopLayer","CAP0603","641.734","669.294","180","Cap 0603"
+"C1","CAP 0603","TopLayer","CAP0603","1937.005","704.726","270","Cap 0603"
+"BT1","CR2016","TopLayer","BLP20","1263.976","1078.740","180","CR2016 Coil Cell Battery Holder"
